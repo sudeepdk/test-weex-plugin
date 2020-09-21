@@ -71,5 +71,18 @@
     "webpack-dev-server": "^2.9.7",
     "webpack-merge": "^4.1.0",
     "weex-loader": "^0.6.7"
-  }
+  },
+  "main": "webpack.config.js",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudeepdk/test-weex-plugin.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudeepdk/test-weex-plugin/issues"
+  },
+  "homepage": "https://github.com/sudeepdk/test-weex-plugin#readme"
 }
