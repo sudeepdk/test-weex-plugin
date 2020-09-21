@@ -1,18 +1,17 @@
 # weex-plugin-lottie
 
-This is a weex component extend by [lottie-web](https://github.com/airbnb/lottie-web).
+This is a weex-plug-in for test Code
 
 Require `weex` version >= 0.16.0
 
-![weex-plugin-lottie](https://img.alicdn.com/tfs/TB1kHFlantYBeNjy1XdXXXXyVXa-297-498.gif)
 
 ## Install
 
 ```
 # with npm
-$ npm i weex-plugin-lottie --save
+$ npm i test-weex --save
 # with weex-toolkit
-$ weex plugin add weex-plugin-lottie
+$ weex plugin add test-weex
 ```
 
 ## Usage
